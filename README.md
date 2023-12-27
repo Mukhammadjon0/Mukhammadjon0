@@ -1,17 +1,24 @@
 ### Hi 👋
-My ful name is Muhammadjon Zokirjonov
 
-<!--
-**Mukhammadjon0/Mukhammadjon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muhammadjon, a 19 years old frontend developer from Uzbekistan.
 
-Here are some ideas to get you started:
+- 80+ demo projects
+- 4+ real projects
+- Russian (A2+)
+- English (B2+)
+- Uzbek (Native)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills ⚡
+
+- HTML, CSS, SASS/SCSS
+- Java Script, Bootstrap
+- React JS, Material UI, Tailwind CSS
+- Rest full API (axios | RTK query | fetch)
+- Firebase, Firebase Auth
+
+* a lot more :D
+
+## Contact 📲
+
+- [@backspacee](https://t.me/backspacee/) on Telegram 💬
+- [zokirjonovmuhammadjon40@gmail.com](https://mail.google.com/) on Email 📧

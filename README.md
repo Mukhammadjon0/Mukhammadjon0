@@ -23,3 +23,4 @@ I'm Muhammadjon, a 19 years old frontend developer from Uzbekistan.
 
 - [@backspacee](https://t.me/backspacee/) on Telegram 💬
 - [zokirjonovmuhammadjon40@gmail.com](https://mail.google.com/) on Email 📧
+- [muhammadjoncs](https://www.instagram.com/muhammadjoncs/) on Instagram 📵

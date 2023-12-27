@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋
+My ful name is Muhammadjon Zokirjonov
 
 <!--
 **Mukhammadjon0/Mukhammadjon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

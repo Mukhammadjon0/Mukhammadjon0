@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Muhammadjon, a 19 years old frontend developer from Uzbekistan.
+I'm Muhammadjon, a 20 years old frontend developer from Uzbekistan.
 
 - 1+ year experience
 - 80+ demo projects
